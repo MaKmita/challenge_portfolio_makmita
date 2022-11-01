@@ -54,7 +54,10 @@ Aplikacja nie jest intuicyjna. Nie znajduje się w niej wyjaśnienie, co oznacza
 
 Łowca talentów zainteresowany danym graczem – zamiast wchodzić w „Edycję gracza”, powinien widzieć kartę gracza. W aplikacji brakuje jednak takiej funkcjonalności. W karcie gracza, oprócz danych wpisanych w formularzu, widoczne byłoby zdjęcie/zdjęcia. Karta powinna być dopracowana graficznie, a podane w formularzu linki do mediów społecznościowych gracza otwierać się w nowym oknie przeglądarki. Bezpośrednio z kary powinno być możliwe przejście do meczów i raportów.
 
-Wybierając z lsty danego zawodnika wchodzi się do „Edycji gracza” - o jak wsponiałam nie jest naturlane, bo powinno się wejśc do karty gracza z informacjami o nim. Obecnie nie jest też jasne, że zakładki „Mecze” i „Raporty” dotyczą tylko tego gracza. Wystarczy graficznie pokazać, że „Mecze” i „Raporty” są zbiorem danych o wybranym graczu. 
+Wybierając z listy danego zawodnika wchodzi się do „Edycji gracza” - o jak wsponiałam nie jest naturlane, bo powinno się wejśc do karty gracza z informacjami o nim. Obecnie nie jest też jasne, że zakładki „Mecze” i „Raporty” dotyczą tylko tego gracza. Wystarczy graficznie pokazać, że „Mecze” i „Raporty” są zbiorem danych o wybranym graczu. 
+
+Użytkowik, będąc na danym graczu, klikając w "Raporty" i "Dodaj raport" przenszony jest do zakładki "Mecze" bez wyjaśnienia, w jakim celu i jak dodać raport.
+Będąc w tym samym miejscu i klikając w ikonę "Dodaj raport" użytkownik kierowany jest do stroni z ID gracza i ID meczu, które są ciągiem nic nie znaczących identyfikatorów.
 
 **Co wydaje mi się błędem? Co bym zmieniła?**
 
