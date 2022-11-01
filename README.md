@@ -9,7 +9,7 @@ Liczę na to, że po zakończeniu projektu moja wiedza na temat testowania oprog
 ## Subtask 4
 **Na czym polega ta aplikacja? Do czego służy?**
  
- Aplikacja scouts-test.futbolkolektyw.pl jest dedykowana łowcom talentów. Udostępnia informacje o graczach piłki nożnej, którzy mają założony profil. Prezentuje dane statystyczne meczów poszczególnych graczy. Użytkownik aplikacji może jedynie poddać analizie grę pojedynczego zawodnika. Brak w niej funkcjonalności pozwalających na porównywanie osiągnięć więcej niże jednego zawodnika. 
+Aplikacja scouts-test.futbolkolektyw.pl jest dedykowana łowcom talentów. Udostępnia informacje o graczach piłki nożnej, którzy mają założony profil. Prezentuje dane statystyczne meczów poszczególnych graczy. Użytkownik aplikacji może jedynie poddać analizie grę pojedynczego zawodnika. Brak w niej funkcjonalności pozwalających na porównywanie osiągnięć więcej niż jednego zawodnika. 
 
 **Jakie funkcjonalności znajdują się w aplikacji? Co bym zmieniła?**
 
