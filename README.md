@@ -86,4 +86,12 @@ Strona zawiera błędy językowe na stronie głównej:
 [Test case'y na podsatwie moich doświadczeń](https://docs.google.com/spreadsheets/d/1o4-JYAPQDu3kkGRlyiqwiBTxTgPdv4nel22dMsk_7QE/edit?usp=sharing)
 
 ## Subtask 3 Po co piszemy test case’y?
+**Dzięki test case'om możemy:**
+- w przejrzysty i zrozumiały sposów pokazać wiele możliwości obsłużenia poszczególnych modułów systemu,
+- po zakończeniu testów budować raport z ich wykonania,
+- łatwo wdrożyć nowe osoby w pracę nad systemem,
+- przygotowac testy akceptacyjne, by potwierdzić działanie aplikacji zgodnie z wymaganiami i oczekiwaniami.
+
+Oprogramowanie, które ma dobre pokrycie przypadkami testowymi, jest lepiej przetestowane. W przypadku takim mamy większą pewność, że sprawdziliśmy wszystkie ważne funkcjonalności.
+
 
