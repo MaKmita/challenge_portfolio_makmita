@@ -67,7 +67,7 @@ Wyszukiwarka w zakładce „Gracze” nie wyszukuje rekordów, gdy wpisze się j
 
 Każdy użytkownik może wejść w edycję formularza gracza i dokonywać zmian wedle uznania. Należy dorobić możliwość nadawania różnych poziomów uprawnień. Logując się jako skaut piłki nożnej, nie powinnam mieć uprawnień do modyfikowania danych graczy.
 
-Po wejściu w zakładkę „Gracze” https://scouts-test.futbolkolektyw.pl/pl/players użytkownik mający uprawnienia do dodawania kolejnych zawodników powinien mieć przycisk „Dodaj gracza”. Tymczasem z tego poziomu nie ma takiej możliwości.
+Po wejściu w [zakładkę „Gracze”](https://scouts-test.futbolkolektyw.pl/pl/players) użytkownik mający uprawnienia do dodawania kolejnych zawodników powinien mieć przycisk „Dodaj gracza”. Tymczasem z tego poziomu nie ma takiej możliwości.
 
 Aplikacja nie zapamiętuje wybranej przez użytkownika konfiguracji tabel (wyboru pól) w zakładce „Gracze”.
 
@@ -80,4 +80,4 @@ Strona zawiera błędy językowe na stronie głównej:
 
 # TASK 2
 ## Subtask 1 Pisanie przypadków testowych na podstawie User Story
-[Test case'y do US_1 i US_1](https://docs.google.com/spreadsheets/d/1DMfHoQPgy5omYiZJBK7BffYaP-3CouWNOZ_a_Q8A5Pc/edit?usp=sharing)
+[Test case'y do US_1 i US_2](https://docs.google.com/spreadsheets/d/1DMfHoQPgy5omYiZJBK7BffYaP-3CouWNOZ_a_Q8A5Pc/edit?usp=sharing)
