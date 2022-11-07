@@ -81,3 +81,9 @@ Strona zawiera błędy językowe na stronie głównej:
 # TASK 2
 ## Subtask 1 Pisanie przypadków testowych na podstawie User Story
 [Test case'y do US_1 i US_2](https://docs.google.com/spreadsheets/d/1DMfHoQPgy5omYiZJBK7BffYaP-3CouWNOZ_a_Q8A5Pc/edit?usp=sharing)
+
+## Subtask 2 Pisanie przypadków testowych na podstawie "własnych doświadczeń"
+[Test case'y na podsatwie moich doświadczeń](https://docs.google.com/spreadsheets/d/1o4-JYAPQDu3kkGRlyiqwiBTxTgPdv4nel22dMsk_7QE/edit?usp=sharing)
+
+## Subtask 3 Po co piszemy test case’y?
+
