@@ -90,8 +90,8 @@ Strona zawiera błędy językowe na stronie głównej:
 - w przejrzysty i zrozumiały sposów pokazać wiele możliwości obsłużenia poszczególnych modułów systemu,
 - po zakończeniu testów budować raport z ich wykonania,
 - łatwo wdrożyć nowe osoby w pracę nad systemem,
-- przygotowac testy akceptacyjne, by potwierdzić działanie aplikacji zgodnie z wymaganiami i oczekiwaniami.
+- przygotować testy akceptacyjne, by potwierdzić działanie aplikacji zgodnie z wymaganiami i oczekiwaniami.
 
-Oprogramowanie, które ma dobre pokrycie przypadkami testowymi, jest lepiej przetestowane. W przypadku takim mamy większą pewność, że sprawdziliśmy wszystkie ważne funkcjonalności.
-
+Oprogramowanie, które ma dobre pokrycie przypadkami testowymi, jest lepiej przetestowane. W takim przypadku mamy większą pewność, że sprawdziliśmy wszystkie ważne funkcjonalności.
+[![A komu to potrzebne?]([/images/content/4279611/af8d90618f52eb41dd6bdbee0604111a.jpg](https://img.youtube.com/vi/OO3FANjwKHY/0.jpg))]([http://www.youtube.com/watch?v=T-D1KVIuvjA](https://www.youtube.com/watch?v=OO3FANjwKHY&t=1s))
 
