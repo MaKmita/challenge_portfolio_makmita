@@ -25,7 +25,7 @@ Aplikacja ma następujące funkcjonalności:
 
 Po kliknięciu w link do kontaktu z deweloperami użytkownik przekierowany jest do aplikacji slack i nie wie, w jaki sposób może się z nimi skontaktować.
 
-[Formularz Dodaj gracza] (https://scouts-test.futbolkolektyw.pl/pl/players/add) wymaga zmian:
+Formularz [Dodaj gracza] (https://scouts-test.futbolkolektyw.pl/pl/players/add) wymaga zmian:
 - pola nie są odpowiednio walidowane - „Telefon” przyjmuje wszystkie znaki – cyfry, litery i znaki szczególne; „Waga” i „Wzrost” dopuszczają wartości ujemne,
 - pole Waga nie ma zdefiniowanej jednostki,
 - pola „Główna pozycja” i „Pozycja alternatywna” powinny umożliwiać wybranie pozycji ze zdefiniowanej listy,
