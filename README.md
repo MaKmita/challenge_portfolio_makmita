@@ -93,5 +93,5 @@ Strona zawiera błędy językowe na stronie głównej:
 - przygotować testy akceptacyjne, by potwierdzić działanie aplikacji zgodnie z wymaganiami i oczekiwaniami.
 
 Oprogramowanie, które ma dobre pokrycie przypadkami testowymi, jest lepiej przetestowane. W takim przypadku mamy większą pewność, że sprawdziliśmy wszystkie ważne funkcjonalności.
-[![A komu to potrzebne?]([/images/content/4279611/af8d90618f52eb41dd6bdbee0604111a.jpg](https://img.youtube.com/vi/OO3FANjwKHY/0.jpg))]([http://www.youtube.com/watch?v=T-D1KVIuvjA](https://www.youtube.com/watch?v=OO3FANjwKHY&t=1s))
+[![A komu to potrzebne?](https://img.youtube.com/vi/OO3FANjwKHY/0.jpg)](https://www.youtube.com/watch?v=OO3FANjwKHY&t=1s)
 
