@@ -77,3 +77,7 @@ Strona zawiera błędy językowe na stronie głównej:
 - należy zmienić słowo "meczy" na "meczów",
 - zamiast słowa "ilość"  graczy, meczów, raportów, akcji powinno być "liczba",
 - nazwa bloku "Aktywnosć" zawiera błąd, poprawnie powinna ona brzmieć "Aktywność".
+
+# TASK 2
+## Subtask 1 Pisanie przypadków testowych na podstawie User Story
+[Test case'y do US_1 i US_1](https://docs.google.com/spreadsheets/d/1DMfHoQPgy5omYiZJBK7BffYaP-3CouWNOZ_a_Q8A5Pc/edit?usp=sharing)
