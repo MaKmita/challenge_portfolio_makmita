@@ -52,12 +52,12 @@ W wielu miejscach, np. na liście graczy nie ma wyróżnika graficznego, że mog
 
 Aplikacja nie jest intuicyjna. Nie znajduje się w niej wyjaśnienie, co oznaczają pokazywanie dane - np. liczba graczy (czy chodzi o wszystkich biorących udział w rozgrywkach, jeśli tak to o jaki okres czasu chodzi?). Należy podać definicje pojęć (np. w postaci opisów wyświetlanych po najechaniu kursorem na ich nazwę).
 
-Łowca talentów zainteresowany danym graczem – zamiast wchodzić w „Edycję gracza”, powinien widzieć kartę gracza. W aplikacji brakuje jednak takiej funkcjonalności. W karcie gracza, oprócz danych wpisanych w formularzu, widoczne byłoby zdjęcie/zdjęcia. Karta powinna być dopracowana graficznie, a podane w formularzu linki do mediów społecznościowych gracza otwierać się w nowym oknie przeglądarki. Bezpośrednio z kary powinno być możliwe przejście do meczów i raportów.
+Łowca talentów zainteresowany danym graczem – zamiast wchodzić w „Edycję gracza”, powinien widzieć kartę gracza. W aplikacji brakuje jednak takiej funkcjonalności. W karcie gracza, oprócz danych wpisanych w formularzu, widoczne byłoby zdjęcie/zdjęcia. Karta powinna być dopracowana graficznie, a podane w formularzu linki do mediów społecznościowych gracza otwierać się w nowym oknie przeglądarki. Bezpośrednio z karty powinno być możliwe przejście do meczów i raportów.
 
-Wybierając z listy danego zawodnika wchodzi się do „Edycji gracza” - o jak wsponiałam nie jest naturlane, bo powinno się wejśc do karty gracza z informacjami o nim. Obecnie nie jest też jasne, że zakładki „Mecze” i „Raporty” dotyczą tylko tego gracza. Wystarczy graficznie pokazać, że „Mecze” i „Raporty” są zbiorem danych o wybranym graczu. 
+Wybierając z listy danego zawodnika wchodzi się do „Edycji gracza” - o jak wsponiałam nie jest naturlane, bo powinno się wejść do karty gracza z informacjami o nim. Obecnie nie jest też jasne, że zakładki „Mecze” i „Raporty” dotyczą tylko tego gracza. Wystarczy graficznie pokazać, że „Mecze” i „Raporty” są zbiorem danych o wybranym graczu. 
 
-Użytkowik, będąc na danym graczu, klikając w "Raporty" i "Dodaj raport" przenszony jest do zakładki "Mecze" bez wyjaśnienia, w jakim celu i jak dodać raport.
-Będąc w tym samym miejscu i klikając w ikonę "Dodaj raport" użytkownik kierowany jest do stroni z ID gracza i ID meczu, które są ciągiem nic nie znaczących identyfikatorów.
+Użytkowik, będąc na danym graczu, klikając w "Raporty" i "Dodaj raport" przenoszony jest do zakładki "Mecze" bez wyjaśnienia, w jakim celu i jak dodać raport.
+Będąc w tym samym miejscu i klikając w ikonę "Dodaj raport", użytkownik kierowany jest do strony z ID gracza i ID meczu, które są ciągiem nic nie znaczących identyfikatorów.
 
 **Co wydaje mi się błędem? Co bym zmieniła?**
 
@@ -96,3 +96,5 @@ Oprogramowanie, które ma dobre pokrycie przypadkami testowymi, jest lepiej prze
 
 [![A komu to potrzebne?](https://img.youtube.com/vi/OO3FANjwKHY/0.jpg)](https://www.youtube.com/watch?v=OO3FANjwKHY&t=1s)
 
+## Subtask 4
+[Test case'y do aplikacji pick.eat.up.](https://docs.google.com/spreadsheets/d/1N-7uNML9sb31R31ORGOt3YnEbGLUv7cyQw0O_pKc5SY/edit?usp=sharing)
