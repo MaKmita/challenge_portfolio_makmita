@@ -78,4 +78,6 @@ Strona zawiera błędy językowe na stronie głównej:
 - zamiast słowa "ilość"  graczy, meczów, raportów, akcji powinno być "liczba",
 - nazwa bloku "Aktywnosć" zawiera błąd, poprawnie powinna ona brzmieć "Aktywność".
 
+# TASK 2
 
+[Rozwiązaniie task'u 2](task_2.md)
