@@ -65,7 +65,7 @@ Strona scouts-test.futbolkolektyw.pl powinna mieć uzupełnione podstawowe meta 
 
 Wyszukiwarka w zakładce „Gracze” nie wyszukuje rekordów, gdy wpisze się jednocześnie imię i nazwisko gracza.
 
-Każdy użytkownik może wejść w edycję formularza gracza i dokonywać zmian wedle uznania. Należy dorobić możliwość nadawania różnych poziomów uprawnień. Logując się jako skaut piłki nożnej, nie powinnam mieć uprawnień do modyfikowania danych graczy.
+Każdy użytkownik może wejść w edycję formularza gracza i dokonywać zmian wedle uznania. Należy dorobić możliwość nadawania różnych poziomów uprawnień. Logując się jako skaut piłki nożnej, nie powinnam mieć uprawnień do modyfikowania danych graczy, których nie jestem "właścicielem".
 
 Po wejściu w [zakładkę „Gracze”](https://scouts-test.futbolkolektyw.pl/pl/players) użytkownik mający uprawnienia do dodawania kolejnych zawodników powinien mieć przycisk „Dodaj gracza”. Tymczasem z tego poziomu nie ma takiej możliwości.
 
@@ -89,7 +89,7 @@ Strona zawiera błędy językowe na stronie głównej:
 **Dzięki test case'om możemy:**
 - w przejrzysty i zrozumiały sposów pokazać wiele możliwości obsłużenia poszczególnych modułów systemu,
 - po zakończeniu testów budować raport z ich wykonania,
-- łatwo wdrożyć nowe osoby w pracę nad systemem,
+- łatwo wdrożyć nowe osoby w pracę nad systemem (a przy okazji zaoszczędzić nasz czas, który musimy posięcić na "świeżaków" w zespole ;)),
 - przygotować testy akceptacyjne, by potwierdzić działanie aplikacji zgodnie z wymaganiami i oczekiwaniami.
 
 Oprogramowanie, które ma dobre pokrycie przypadkami testowymi, jest lepiej przetestowane. W takim przypadku mamy większą pewność, że sprawdziliśmy wszystkie ważne funkcjonalności.
