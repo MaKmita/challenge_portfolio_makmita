@@ -89,7 +89,7 @@ Strona zawiera błędy językowe na stronie głównej:
 **Dzięki test case'om możemy:**
 - w przejrzysty i zrozumiały sposów pokazać wiele możliwości obsłużenia poszczególnych modułów systemu,
 - po zakończeniu testów budować raport z ich wykonania,
-- łatwo wdrożyć nowe osoby w pracę nad systemem (a przy okazji zaoszczędzić nasz czas, który musimy posięcić na "świeżaków" w zespole ;)),
+- łatwo wdrożyć nowe osoby w pracę nad systemem (a przy okazji zaoszczędzić nasz czas, który musimy posięcić na "świeżaków" w zespole ;>),
 - przygotować testy akceptacyjne, by potwierdzić działanie aplikacji zgodnie z wymaganiami i oczekiwaniami.
 
 Oprogramowanie, które ma dobre pokrycie przypadkami testowymi, jest lepiej przetestowane. W takim przypadku mamy większą pewność, że sprawdziliśmy wszystkie ważne funkcjonalności.
