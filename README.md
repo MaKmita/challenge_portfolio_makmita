@@ -96,5 +96,5 @@ Oprogramowanie, które ma dobre pokrycie przypadkami testowymi, jest lepiej prze
 
 [![A komu to potrzebne?](https://img.youtube.com/vi/OO3FANjwKHY/0.jpg)](https://www.youtube.com/watch?v=OO3FANjwKHY&t=1s)
 
-## Subtask 4
+## Subtask 4 Pick Eat Up
 [Test case'y do aplikacji pick.eat.up.](https://docs.google.com/spreadsheets/d/1N-7uNML9sb31R31ORGOt3YnEbGLUv7cyQw0O_pKc5SY/edit?usp=sharing)
