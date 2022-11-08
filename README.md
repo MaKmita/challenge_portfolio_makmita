@@ -50,7 +50,7 @@ W wielu miejscach, np. na liście graczy nie ma wyróżnika graficznego, że mog
 
 **Czy aplikacja jest intuicyjna?**
 
-%(#F​​F000​0)[Aplikacja nie jest intuicyjna]. Nie znajduje się w niej wyjaśnienie, co oznaczają pokazywanie dane - np. liczba graczy (czy chodzi o wszystkich biorących udział w rozgrywkach, jeśli tak to o jaki okres czasu chodzi?). Należy podać definicje pojęć (np. w postaci opisów wyświetlanych po najechaniu kursorem na ich nazwę).
+%(#FF0000)[Aplikacja nie jest intuicyjna]. Nie znajduje się w niej wyjaśnienie, co oznaczają pokazywanie dane - np. liczba graczy (czy chodzi o wszystkich biorących udział w rozgrywkach, jeśli tak to o jaki okres czasu chodzi?). Należy podać definicje pojęć (np. w postaci opisów wyświetlanych po najechaniu kursorem na ich nazwę).
 
 Łowca talentów zainteresowany danym graczem – zamiast wchodzić w „Edycję gracza”, powinien widzieć kartę gracza. W aplikacji brakuje jednak takiej funkcjonalności. W karcie gracza, oprócz danych wpisanych w formularzu, widoczne byłoby zdjęcie/zdjęcia. Karta powinna być dopracowana graficznie, a podane w formularzu linki do mediów społecznościowych gracza otwierać się w nowym oknie przeglądarki. Bezpośrednio z kary powinno być możliwe przejście do meczów i raportów.
 
