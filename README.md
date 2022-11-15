@@ -5,3 +5,7 @@
 # TASK 2
 
 [Rozwiązanie task'u 2](task_2.md)
+
+# TASK 3
+
+[Rozwiązanie task'u 3](task_3.md)
