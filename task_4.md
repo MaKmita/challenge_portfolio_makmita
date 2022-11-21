@@ -34,5 +34,5 @@ Aplikacja jest łatwa w obsłudze i raczej przyjazna użytkownikowi (kilka uwag 
 Aż się prosi, by dodać w aplikacji funkcję “Zaproś znajomych”.
 Moim zdaniem brakuje formatowania artykułów, które obecnie są tzw. blachami tekstu i ciężko się je czyta.
 
-### Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?
+### 6. Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?
 Aplikacje internetowe są łatwiej dostępne i nie wymagają instalacji. To ich przewaga nad aplikacjami natywnymi. Aplikacje natywne można w jakiejść części testować offline oraz są one bardziej powiązane z narzędziami systemowymi urządzenia.
