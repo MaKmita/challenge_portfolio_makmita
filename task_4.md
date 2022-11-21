@@ -16,16 +16,18 @@ Aplikacja przeznaczona jest dla osób, które szukają sposobów na uważne i ś
 To narzędzie dla tych, którzy w domowym zaciszu szukają chwili dla siebie oraz chcą skorzystać z technik relaksacyjnych. Wszystko po to, by wywołać :smile: na swojej twarzy.
 
 ### 3. Czy według Ciebie aplikacja jest user friendly? 
-Aplikacja jest łatwa w obsłudze i raczej przyjazna użytkownikowi (kilka uwag zamieściłam poniżej). Ma on poczucie, że produkt jest przemyślany i dopracowany od strony graficznej, a do tego umożliwia intuicyjne korzystanie.
+Aplikacja jest łatwa w obsłudze i raczej przyjazna użytkownikowi (kilka uwag zamieściłam poniżej). Użytkownik ma poczucie, że produkt jest przemyślany i dopracowany od strony graficznej, a do tego umożliwia intuicyjne korzystanie.
 
 ### 4. Jak byś usprawnił aplikację? Co byś w niej poprawił. 
-- W aplikacji należy poprawić sporo błędów - tzw. literówek oraz interpunkcji.
 
 - Przy opcji “Wyzwania” należy zrobić bardziej przyjazną grafikę. Po kliknięciu w “Wybierz wyzwanie” nadal widoczny jest “+” z opcją dodawania, ale za jego pomocą użytkownik jest przekierowywany do widoku początkowego, zamiast móc dodać wyzwanie. [Wideo obrazujące ten problem](https://drive.google.com/file/d/17RjYmmfZpj7OvR97c5TUDXvZUHJRqABT/view?usp=share_link)
 
 - Czasami aplikacja sprawia wrażenie niestabilnej. Na przykład po kliknięciu w player'a wideo lub nagrania dźwiękowe nie odtwarzają się. [Wideo obrazujące ten problem](https://drive.google.com/file/d/17VxPwekukks88iEFYNh_i1YniRojpVj-/view?usp=sharing)
 
-- Aplikacja jest dosyć energochłonna.
+- Aplikacja jest dosyć energochłonna - system wskazuje na wysokie zużycie baterii.
+![Wykres zużycia beterii](https://drive.google.com/file/d/17tiaYvhfek-_i9IMNRficxverAOnblKp/view?usp=share_link)
+
+- W tekstach znajdujących się w aplikacji należy poprawić sporo błędów - tzw. literówek oraz interpunkcyjnych.
 
 ### 5. Czy masz jakiś pomysł na dodatkową funkcjonalność?
 Aż się prosi, by dodać funkcję “Zaproś znajomych”.
