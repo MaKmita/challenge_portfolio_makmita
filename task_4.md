@@ -25,7 +25,8 @@ Aplikacja jest łatwa w obsłudze i raczej przyjazna użytkownikowi (kilka uwag 
 - Czasami aplikacja sprawia wrażenie niestabilnej. Na przykład po kliknięciu w player'a wideo lub nagrania dźwiękowe nie odtwarzają się. [Wideo obrazujące ten problem](https://drive.google.com/file/d/17VxPwekukks88iEFYNh_i1YniRojpVj-/view?usp=sharing)
 
 - Aplikacja jest dosyć energochłonna - system wskazuje na wysokie zużycie baterii.
-![Wykres zużycia beterii](media/Screenshot_20221120-214623_Device%20maintenance.jpg| width=100)
+
+<img src="media/Screenshot_20221120-214623_Device%20maintenance.jpg" width="300">
 
 - W tekstach znajdujących się w aplikacji należy poprawić sporo błędów - tzw. literówek oraz interpunkcyjnych.
 
