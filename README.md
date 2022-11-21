@@ -9,3 +9,7 @@
 # TASK 3
 
 [Rozwiązanie task'u 3](task_3.md)
+
+# TASK 4
+
+[Rozwiązanie task'u 4](task_4.md)
