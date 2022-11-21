@@ -22,7 +22,7 @@ Aplikacja jest łatwa w obsłudze i raczej przyjazna użytkownikowi (kilka uwag 
 
 - Przy opcji “Wyzwania” należy zrobić bardziej przyjazną grafikę. Po kliknięciu w “Wybierz wyzwanie” nadal widoczny jest “+” z opcją dodawania, ale za jego pomocą użytkownik jest przekierowywany do widoku początkowego, zamiast móc dodać wyzwanie. [Wideo obrazujące ten problem](https://drive.google.com/file/d/17RjYmmfZpj7OvR97c5TUDXvZUHJRqABT/view?usp=share_link)
 
-- Czasami aplikacja sprawia wrażenie niestabilnej. Na przykład po kliknięciu w player'a wideo lub nagrania dźwiękowe nie odtwarzają się. [Wideo obrazujące ten problem](https://drive.google.com/file/d/17VxPwekukks88iEFYNh_i1YniRojpVj-/view?usp=sharing)
+- Czasami aplikacja sprawia wrażenie niestabilnej. Zdarzają się na przykład takie sytuacje, że nawet po kilkukrotnym kliknięciu w player'a nie odtwarzają się pliki wideo oraz nagrania dźwiękowe. [Wideo obrazujące ten problem](https://drive.google.com/file/d/17VxPwekukks88iEFYNh_i1YniRojpVj-/view?usp=sharing)
 
 - Aplikacja jest dosyć energochłonna - system wskazuje na wysokie zużycie baterii.
 
@@ -31,7 +31,8 @@ Aplikacja jest łatwa w obsłudze i raczej przyjazna użytkownikowi (kilka uwag 
 - W tekstach znajdujących się w aplikacji należy poprawić sporo błędów - tzw. literówek oraz interpunkcyjnych.
 
 ### 5. Czy masz jakiś pomysł na dodatkową funkcjonalność?
-Aż się prosi, by dodać funkcję “Zaproś znajomych”.
-Brakuje również formatowania artykułów, a teki blachy tekstu ciężko się czyta.
-Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?
-Aplikacje internetowe są łatwiej dostępne i nie wymagają instalacji. To ich przewaga nad aplikacjami natywnymi. Te natomiast mogą być testowane
+Aż się prosi, by dodać w aplikacji funkcję “Zaproś znajomych”.
+Moim zdaniem brakuje formatowania artykułów, które obecnie są tzw. blachami tekstu i ciężko się je czyta.
+
+### Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?
+Aplikacje internetowe są łatwiej dostępne i nie wymagają instalacji. To ich przewaga nad aplikacjami natywnymi. Aplikacje natywne można w jakiejść części testować offline oraz są one bardziej powiązane z narzędziami systemowymi urządzenia.
