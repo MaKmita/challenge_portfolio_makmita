@@ -7,8 +7,8 @@
 - BETWEEN
 - IS
 - '>'
-- <
-- =
+- '<'
+- '='
 
 ### Zapytania, których się nauczyłam
 - SELECT * FROM tabela WHERE warunek
