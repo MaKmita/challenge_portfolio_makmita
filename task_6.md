@@ -100,3 +100,8 @@ INSERT INTO customers (customer_id, name, surname, email, pseudonym) VALUES (7, 
 ```
 
 ![Wynik zapytania](media/20.png)
+
+## Subtask 2 - Test
+
+Po rozwiązaniu zestaw pytań ECRU na stronie http://getistqb.com/ zdobyłam 10/15 punktów.
+Pewnie będę waracać do zagadnień zawartych w Sylabusie.
