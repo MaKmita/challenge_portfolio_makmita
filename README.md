@@ -1,3 +1,6 @@
+# W skrócie o mnie 
+Od 2004 roku pracuję w branży mediowej. Pprzeszłam ścieżkę kariery od redaktora merytorycznego, przez prowadzącego tytuły drukowane oraz produkty internetowe. Gdy w 2007 roku po raz pierwszy wkroczyłam do świata online, już w nim zostałam :smiley:. Obecnie jestem Product Managerem kilku kluczowych serwisów tematycznych w Polska Press Grupie: regiodom.pl, stronazdrowia.pl, stronakobiet.pl i stronakuchni.pl. Skąd pomysł, by wziąć udział w  Dare IT Challenge? Lubię nowe wyzwania, które pozwalają mi w ciągłym rozwoju. Choć nie jestem programistką i zapewne nią nie zosanę :wink:, fascynuje mnie idea Agile i metodologia Scrum.
+
 # TASK 1
 
 [Rozwiązanie task'u 1](task_1.md)
