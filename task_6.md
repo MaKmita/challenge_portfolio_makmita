@@ -2,7 +2,7 @@
 
 ## Subtask 1
 
-### 11. Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi ten błąd.
+### 11. Popełniłam błąd, wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi ten błąd.
 
 ```sql
 UPDATE customers
@@ -14,7 +14,7 @@ WHERE surname = 'Muler'
 
 ![Wynik zapytania](media/11_1.png)
 
-### 12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila.
+### 12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join, sprawdź, jak ma na imię klient i jakiego ma maila.
 
 ```sql
 SELECT name, email FROM `sale`as s
@@ -23,7 +23,7 @@ WHERE movie_id = 4
 ```
 ![Wynik zapytania](media/12.png)
 
-### 13. Na pewno zauważyłaś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: pati@mail.com
+### 13. Na pewno zauważyłaś, że sprzedawca zapomniał wpisać emaila klientce o imieniu Patrycja. Uzupełnij ten brak, wpisując: pati@mail.com
 ```sql
 UPDATE customers
 SET email = 'pati@mail.com'
