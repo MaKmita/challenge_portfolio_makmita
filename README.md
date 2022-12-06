@@ -13,3 +13,13 @@
 # TASK 4
 
 [Rozwiązanie task'u 4](task_4.md)
+
+
+# TASK 5
+
+[Rozwiązanie task'u 5](task_5.md)
+
+
+# TASK 6
+
+[Rozwiązanie task'u 6](task_6.md)
